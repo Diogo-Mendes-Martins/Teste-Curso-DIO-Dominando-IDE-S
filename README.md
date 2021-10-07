@@ -1,2 +1,2 @@
-# Teste-Curso-DIO-Dminando-IDE-S
+# Teste-Curso-DIO-Dominando-IDE-S
 test repository
